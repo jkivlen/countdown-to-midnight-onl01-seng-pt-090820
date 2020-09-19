@@ -1,6 +1,10 @@
 #write your code here
 
 def countdown
-  counter = 0
+  number = 10
+  while number > 0
+    puts 
+  
+  
   
 end
